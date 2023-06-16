@@ -941,7 +941,7 @@ home_top:
   banner:
     tips: 查看
     title: 孙悟元
-    image: https://img02.anzhiy.cn/adminuploads/1/2023/03/27/64215d46a1ca6.webp
+    image: /img/16938d74470a659621494fe740121ada_w1920_h1080_s2181.jpg
     link: https://bilibili.com
 
 # 朋友圈配置
@@ -1105,7 +1105,7 @@ CDN:
     # aplayer_css:
     # aplayer_js:
     # meting_js:
-    # meting_api:
+     meting_api: https://api.injahow.cn/meting/?server=:server&type=:type&id=:id&auth=:auth&r=:r
     # prismjs_js:
     # prismjs_lineNumber_js:
     # prismjs_autoloader:
